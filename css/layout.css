@@ -47,6 +47,7 @@
 
 .shadow-5{
   clear:both;
+  float:left;
   display: inline-block;
   width: 33%;
 }
