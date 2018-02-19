@@ -33,12 +33,13 @@
 
 .shadow-3{
   clear:both;
-  display:block;
+  display:inline-block;
   float: left;
   width: 33%;
 }
 
 .shadow-4{
+  clear:both;
   display: inline-block;
   width: 33%;
 }
