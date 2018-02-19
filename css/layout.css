@@ -49,6 +49,10 @@
   margin-left: 2%;
 }
 
+.border-right{
+  float: left;
+  width: 33%;
+}
 
 .clearfix:after {
   content: ".";
