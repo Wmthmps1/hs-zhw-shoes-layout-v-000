@@ -32,7 +32,7 @@
 }
 
 .shadow-3{
-  display: inline-block;
+  display:block;
   float: left;
   width: 33%;
   margin-bottom: 10px;
@@ -46,7 +46,7 @@
 }
 
 .shadow-5{
-  display: inline-block;
+  display: block;
   float: left;
   width: 33%;
   margin-bottom: 10px;
