@@ -18,8 +18,10 @@
 /* Posititoning Classes */
 
 .shadow-1{
+  display: inline-block;
   float: left;
   width: 66%;
+  margin-bottom: 2%;
 }
 
 .shadow-2{
