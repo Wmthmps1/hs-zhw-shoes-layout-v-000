@@ -27,7 +27,7 @@
 .shadow-2{
   display: inline-block;
   width: 32%;
-  margin-left: 1%;
+  margin-left: 2%;
   margin-bottom: 2%;
 }
 
@@ -39,14 +39,14 @@
 
 .shadow-4{
   float:left;
-  margin-left: 1%;
+  margin-left: 2%;
   width: 32%;
 }
 
 .shadow-5{
   float:left;
   width: 32%;
-  margin-left: 1%;
+  margin-left: 2%;
 }
 
 
