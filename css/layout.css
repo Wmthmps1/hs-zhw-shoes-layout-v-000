@@ -38,6 +38,13 @@
   margin-bottom: 10px;
 }
 
+.shadow-4{
+  display: inline-block;
+  float: left;
+  width: 33%;
+  margin-bottom: 10px;
+}
+
 
 .clearfix:after {
   content: ".";
