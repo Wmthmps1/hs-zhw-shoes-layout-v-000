@@ -22,6 +22,8 @@
   width: 33%;
 }
 
+
+
 .clearfix:after {
   content: ".";
   display: block;
